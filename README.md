@@ -27,6 +27,6 @@ Please do not distribute these binaries without the associated
 sources that can be distributed under the terms of the
 GNU General Public License.
 
-See http://www.mathematik.uni-ulm.de/modula/history/ for more infos.
+See https://github.com/afborchert/lilith for more infos.
 
 Andreas F. Borchert
